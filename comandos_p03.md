@@ -9,3 +9,13 @@
 Tabla
 
 # Parte II.
+
+**Respuesta 2:**
+
+parte2.py
+
+# Parte III.
+
+unzip fastqc_v0.11.9.zip
+cd FastQC
+./run_fastqc.bat

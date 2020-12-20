@@ -1,0 +1,4 @@
+*.fastq
+*.fasta
+*.zip
+FastQC
